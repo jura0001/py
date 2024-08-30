@@ -1,0 +1,142 @@
+[
+  {
+    "Type": "Movie",
+    "Name": "Inception",
+    "Year": 2010,
+    "Rating": 8.8,
+    "Country": "USA"
+  },
+  {
+    "Type": "Song",
+    "Name": "Bohemian Rhapsody",
+    "Year": 1975,
+    "Rating": 9.2,
+    "Country": "UK"
+  },
+  {
+    "Type": "Movie",
+    "Name": "The Shawshank Redemption",
+    "Year": 1994,
+    "Rating": 9.3,
+    "Country": "USA"
+  },
+  {
+    "Type": "Song",
+    "Name": "Hotel California",
+    "Year": 1976,
+    "Rating": 8.7,
+    "Country": "USA"
+  },
+  {
+    "Type": "Movie",
+    "Name": "Pulp Fiction",
+    "Year": 1994,
+    "Rating": 8.9,
+    "Country": "USA"
+  },
+  {
+    "Type": "Song",
+    "Name": "Like a Rolling Stone",
+    "Year": 1965,
+    "Rating": 9.5,
+    "Country": "USA"
+  },
+  {
+    "Type": "Movie",
+    "Name": "The Dark Knight",
+    "Year": 2008,
+    "Rating": 9,
+    "Country": "USA"
+  },
+  {
+    "Type": "Song",
+    "Name": "Imagine",
+    "Year": 1971,
+    "Rating": 9.1,
+    "Country": "UK"
+  },
+  {
+    "Type": "Movie",
+    "Name": "The Godfather",
+    "Year": 1972,
+    "Rating": 9.2,
+    "Country": "USA"
+  },
+  {
+    "Type": "Song",
+    "Name": "Smells Like Teen Spirit",
+    "Year": 1991,
+    "Rating": 8.9,
+    "Country": "USA"
+  },
+  {
+    "Type": "Movie",
+    "Name": "Forrest Gump",
+    "Year": 1994,
+    "Rating": 8.8,
+    "Country": "USA"
+  },
+  {
+    "Type": "Song",
+    "Name": "Billie Jean",
+    "Year": 1983,
+    "Rating": 8.6,
+    "Country": "USA"
+  },
+  {
+    "Type": "Movie",
+    "Name": "Fight Club",
+    "Year": 1999,
+    "Rating": 8.8,
+    "Country": "USA"
+  },
+  {
+    "Type": "Song",
+    "Name": "Hey Jude",
+    "Year": 1968,
+    "Rating": 9.4,
+    "Country": "UK"
+  },
+  {
+    "Type": "Movie",
+    "Name": "Gladiator",
+    "Year": 2000,
+    "Rating": 8.5,
+    "Country": "USA"
+  },
+  {
+    "Type": "Song",
+    "Name": "Stairway to Heaven",
+    "Year": 1971,
+    "Rating": 9.3,
+    "Country": "UK"
+  },
+  {
+    "Type": "Movie",
+    "Name": "The Matrix",
+    "Year": 1999,
+    "Rating": 8.7,
+    "Country": "USA"
+  },
+  {
+    "Type": "Song",
+    "Name": "What's Going On",
+    "Year": 1971,
+    "Rating": 9,
+    "Country": "USA"
+  },
+  {
+    "Type": "Movie",
+    "Name": "Schindler's List",
+    "Year": 1993,
+    "Rating": 8.9,
+    "Country": "USA"
+  },
+  {
+    "Type": "Song",
+    "Name": "Hallelujah",
+    "Year": 1984,
+    "Rating": 8.8,
+    "Country": "Canada"
+  }
+]
